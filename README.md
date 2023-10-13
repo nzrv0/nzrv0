@@ -8,9 +8,4 @@
 - Git/Github
 - etc.
 
-#### How to reach me:
- ~ Email: nezerovabuzar@gmail.com
- <br>
- ~ Instagram: @nzrv.0
- <br>
- ~ Twitter/X: @nzrv0
+### How to reach me: <a href="nezerovabuzar@gmail.com" target="_blank">Email<a/> | <a href="https://www.instagram.com/nzrv.0/" target="_blank">Instagram<a/> | <a href="https://twitter.com/nzrv0/" target="_blank">Twitter/X<a/>
