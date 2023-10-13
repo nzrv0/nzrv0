@@ -9,7 +9,6 @@
 - etc.
 
 #### How to reach me:
- <br>
  ~ Email: nezerovabuzar@gmail.com
  <br>
  ~ Instagram: @nzrv.0
