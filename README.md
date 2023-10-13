@@ -1,11 +1,14 @@
-### Hi there 👋
+### Hi there, I am a Javascript Developer. 👋
 
-### Languages and Tools
+### Tech Stack
+- Javascript | Typescript | React.js
+- Sass/Scss | Material UI | Styled Components
+- Redux, Context and Hooks API, Ngrx and Ngxs
+- Python (Django)
+- Git/Github
+- etc.
 
-<br> 
- 
-<div>
-    <a href="" target="_blank">
-        <img src="./icons/github.svg">
-    </a>
-</div>
+## How to reach me: 
+ ~ Email: nezerovabuzar@gmail.com
+ ~ Instagram: @nzrv.0
+ ~ Twitter/X: @nzrv0
