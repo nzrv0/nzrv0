@@ -1,6 +1,11 @@
 ### Hi there 👋
 
 ### Languages and Tools
+
 <br> 
  
-![VsCode](https://icons8.com/icon/121602/visual-studio](https://icons8.com/icon/121602/visual-studio)https://icons8.com/icon/121602/visual-studio)
+<div>
+    <a href="" target="_blank">
+        <img src="./icons/github.svg">
+    </a>
+</div>
